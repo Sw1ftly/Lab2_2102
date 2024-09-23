@@ -3,7 +3,7 @@
 Prep:
 
 - pull all these files onto your codespace
-- its my exact lab 1 with 1 change: the cse2102 dircetory which contains maven
+- its my exact lab 1 with 1 change: the cse2102 directory which contains maven
 - i also modified the pom.xml dependencies to fit with my junit version
 - all steps and video are in lab report
 
